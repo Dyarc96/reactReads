@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "title": "Napoleon Wielki",
+      "author": "Andrew Roberts",
+      "bookType": "history",
+      "bookShelf": "reading",
+      "userId": "109804613282496230108",
+      "id": 2
+    },
+    {
+      "title": "Nightflyers",
+      "author": "George R R Martin",
+      "bookType": "scifi",
+      "bookShelf": "toread",
+      "userId": "109804613282496230108",
+      "id": 3
+    },
+    {
+      "title": "The Witcher",
+      "author": "Andrzej Sapkowski",
+      "bookType": "fantasy",
+      "bookShelf": "read",
+      "userId": null,
+      "id": 4
+    }
+  ]
+}

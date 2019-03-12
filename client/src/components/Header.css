@@ -1,0 +1,38 @@
+* {
+    color: white;
+}
+
+.nav {
+    display: flex;
+    border-radius: .3rem;
+    height: 4rem;
+    background-color: #606977;
+    align-items: center;
+}
+
+.main-item {
+    text-decoration: none;
+    font-size: 1.6rem;
+    margin-left: .5rem;
+}
+
+.item {
+    text-decoration: none;
+    font-size: 1.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 1rem;
+}
+
+.item:hover {
+    background-color: #d1dce2;
+    color: #606977;
+}
+
+.right-menu {
+    display: flex;
+    justify-content: flex-end;
+    flex: 1;
+    margin-right: 2rem;
+}

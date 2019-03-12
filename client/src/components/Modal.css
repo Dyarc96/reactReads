@@ -1,0 +1,33 @@
+.modal {
+    height: 100vh;
+    width: 100vw;
+    background-color: grey;
+    position: absolute;
+    opacity: .9;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal__window {
+    height: 30%;
+    width: 50%;
+    border: 1px solid white;
+    background-color: white;
+    opacity: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: .5rem;
+}
+
+.modal__content {
+    margin-bottom: 2rem;
+    font-size: 1.4rem;
+    border-bottom: 1px solid #606977;
+    padding-bottom: 1rem;
+    color: black;
+}

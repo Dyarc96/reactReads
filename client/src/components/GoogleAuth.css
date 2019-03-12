@@ -1,0 +1,19 @@
+.google-button {
+    color: white;
+    background-color: #dd4b39;
+    border: none;
+    display: flex;
+    align-items: center;
+    align-self: stretch;
+    padding: .9rem 2rem;
+}
+
+.fab {
+    margin-right: .5rem;
+}
+
+.auth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

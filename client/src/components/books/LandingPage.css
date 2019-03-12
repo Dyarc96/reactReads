@@ -1,0 +1,48 @@
+.header {
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    width: 30rem;
+    padding: 5rem;
+}
+
+.heading-primary {
+    font-weight: bold;
+    color: black;
+    font-size: 2.5rem;
+}
+
+.paragraph {
+    margin-top: .5rem;
+    color: black;
+    font-size: 1.5rem;
+}
+
+.paragraph__signature {
+    margin-top: 1rem;
+    color: black;
+}
+
+.img-container {
+    position: relative;
+}
+
+.img {
+    position: absolute;
+    height: 15rem;
+    width: 15rem;
+    top: -10rem;
+    right: 8rem;
+    transform: rotate(-15deg);
+}
+
+.img2-container {
+    position: relative;
+}
+
+.img2 {
+    position: absolute;
+    height: 30rem;
+    width: 30rem;
+    left: 10rem;
+    top: -5rem;
+}
